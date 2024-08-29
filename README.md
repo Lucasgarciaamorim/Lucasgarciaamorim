@@ -1,10 +1,9 @@
-
-
-
 <h1 align="center">Hi 👋, I'm Lucas Garcia</h1>
 <h3 align="center">A passionate Backend Developer from Brazil</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lucasgarciaamorim&label=Profile%20views&color=0e75b6&style=flat" alt="lucasgarciaamorim" /> </p>
+
+- 🌱 I’m currently learning **TensorFlow**
 
 - 📫 How to reach me **lucasgarciaamorim@gmail.com**
 

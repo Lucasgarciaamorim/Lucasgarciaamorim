@@ -25,7 +25,7 @@
 
 ## 💬 Sobre mim
 
-Sou **QA Engineer** com atuação em **automação e qualidade de software** em cenários reais, com forte presença em **testes de API**, **validação de contratos (JSON Schema)** e integração de testes em **pipelines de CI/CD**.
+Sou **QA Engineer** com atuação em **automação e qualidade de software** em cenários reais, com forte presença em **testes de API** e integração de testes em **pipelines de CI/CD**.
 
 Trabalho com rotinas de **regressão automatizada (Postman/Newman)**, testes **E2E** (Cypress/Robot/Selenium) e evolução de estratégia de qualidade com visão de **prevenção de falhas (shift-left)**. Tenho experiência em contexto de **pagamentos/TEF**, **integrações** e **ambientes com POS Android/maquininhas**, priorizando **confiabilidade, rastreabilidade e feedback rápido**.
 

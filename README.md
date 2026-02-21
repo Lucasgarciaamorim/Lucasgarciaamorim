@@ -1,7 +1,7 @@
 <div align="center">
 
 # Lucas Garcia  
-**QA Engineer | SDET em formação • Robot Framework • Automação de Testes • Python • Java • JavaScript • Front-end • API Testing • CI/CD**
+**QA • Automação • Robot Framework • Python • Java • JavaScript • Front-end**
 
 <a href="https://komarev.com/ghpvc/?username=lucasgarciaamorim&color=006bed">
   <img src="https://komarev.com/ghpvc/?username=lucasgarciaamorim&color=006bed" alt="Profile views" />
@@ -23,72 +23,73 @@
 
 ---
 
-## Sobre mim
+## 👋 Sobre
 
-Sou **QA Engineer** com foco em **automação de testes** e base sólida em **programação**. Atuo principalmente com **Robot Framework**, criando suites de testes **E2E e API** com atenção a legibilidade, reuso e manutenção.
+Curto construir coisas que **automatizam, testam e facilitam a vida**.  
+Meu “território” aqui no GitHub é principalmente **Robot Framework**, **Python**, **Java** e **JavaScript**, com um pé em **front-end** pra brincar com UI e entender melhor o lado do usuário.
 
-Tenho experiência prática com **Python, Java e JavaScript**, além de familiaridade com fundamentos de **front-end** (estruturação de páginas, componentes e validações), o que ajuda na automação orientada ao comportamento do usuário e na colaboração com times de desenvolvimento.
+O que você vai encontrar por aqui:
+- automações de teste (E2E/API) com **Robot Framework**
+- scripts e utilitários em **Python**
+- estudos e projetos em **Java**
+- experiments de **front-end** (HTML/CSS/JS) e testes de UI
 
-> 🎓 Análise e Desenvolvimento de Sistemas (UCSAL)  
-> 📍 Salvador, Bahia – Brasil
-
----
-
-## Principais frentes
-
-- Automação de testes com **Robot Framework** (E2E e API)
-- Desenvolvimento de bibliotecas/keywords e organização de suites
-- Testes automatizados para aplicações web e serviços
-- Integração de automação com **CI/CD** (GitHub Actions, Jenkins, Azure DevOps)
-- Apoio a boas práticas de qualidade (shift-left, revisão de cenários e critérios de aceite)
+> 🎓 ADS (UCSAL) • 📍 Salvador/BA
 
 ---
 
-## Stack e ferramentas
+## 🧩 Hard skills (o que eu curto mexer)
 
-**Linguagens**  
+**Automação / QA**
+- Robot Framework (keywords, libs, organização de suites)
+- Selenium / Cypress
+- Postman (API testing)
+
+**Linguagens**
+- Python
+- Java
+- JavaScript
+
+**Front-end**
+- HTML / CSS
+- lógica de UI, componentes e validações
+
+**Dev / Pipeline**
+- Git, GitHub Actions, Jenkins (o básico e o necessário pra rodar testes)
+
+---
+
+## 🧰 Ferramentas
+
+![Robot Framework](https://img.shields.io/badge/Robot%20Framework-333?style=flat)
 ![Python](https://img.shields.io/badge/Python-333?style=flat&logo=python)
 ![Java](https://img.shields.io/badge/Java-333?style=flat&logo=openjdk)
 ![JavaScript](https://img.shields.io/badge/JavaScript-333?style=flat&logo=javascript)
 ![HTML5](https://img.shields.io/badge/HTML5-333?style=flat&logo=html5)
 ![CSS3](https://img.shields.io/badge/CSS3-333?style=flat&logo=css3)
-
-**Automação / Testes**  
-![Robot Framework](https://img.shields.io/badge/Robot%20Framework-333?style=flat)
+![Cypress](https://img.shields.io/badge/Cypress-333?style=flat&logo=cypress)
 ![Selenium](https://img.shields.io/badge/Selenium-333?style=flat&logo=selenium)
 ![Postman](https://img.shields.io/badge/Postman-333?style=flat&logo=postman)
-![Cypress](https://img.shields.io/badge/Cypress-333?style=flat&logo=cypress)
-
-**CI/CD**  
 ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-333?style=flat&logo=githubactions)
-![Jenkins](https://img.shields.io/badge/Jenkins-333?style=flat&logo=jenkins)
-![Azure DevOps](https://img.shields.io/badge/Azure%20DevOps-333?style=flat&logo=azuredevops)
-
-**Performance**  
-![k6](https://img.shields.io/badge/k6-333?style=flat&logo=k6)
 
 ---
 
-## Certificações
+## 📌 Fixados / destaques
 
-- **ISTQB® CTFL – Foundation Level**  
-- **Scrum Fundamentals Certified**  
-- **Java Completo**  
-- **SDET Java: Automation Testing from Scratch – Complete Guide**
+Se você chegou agora, olha os **repositórios fixados** — é onde eu deixo o que representa melhor o que eu estou construindo e estudando.
 
 ---
 
-## Em números
+## 📊 Stats
 
 <div align="center">
   <img height="165em" src="https://github-readme-stats.vercel.app/api?username=lucasgarciaamorim&theme=dracula&show_icons=true" alt="GitHub stats" />
   <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasgarciaamorim&layout=compact&theme=dracula" alt="Top Langs" />
-  <img height="165em" src="https://github-readme-streak-stats.herokuapp.com/?user=lucasgarciaamorim&theme=dracula" alt="GitHub Streak" />
 </div>
 
 ---
 
-## Contato
+## 🔗 Links
 
-- ✉️ **E-mail:** [lucasgarciaamorim@gmail.com](mailto:lucasgarciaamorim@gmail.com)  
-- 🔗 **LinkedIn:** [linkedin.com/in/lucasgarciaamorim](https://www.linkedin.com/in/lucasgarciaamorim/)
+- **LinkedIn:** https://www.linkedin.com/in/lucasgarciaamorim/  
+- **E-mail:** lucasgarciaamorim@gmail.com

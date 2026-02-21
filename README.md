@@ -1,7 +1,7 @@
 <div align="center">
 
 # Lucas Garcia  
-**QA | SDET em formação • Automação de Testes • API Testing • CI/CD • Cypress • K6 • Robot • Java • Python • JavaScript**
+**QA Engineer | SDET em formação • Automação de Testes • API & Contract Testing • CI/CD • Cypress • Postman/Newman • Robot • k6 • Java • Python • JavaScript**
 
 <a href="https://komarev.com/ghpvc/?username=lucasgarciaamorim&color=006bed">
   <img src="https://komarev.com/ghpvc/?username=lucasgarciaamorim&color=006bed" alt="Profile views" />
@@ -25,24 +25,22 @@
 
 ## 💬 Sobre mim
 
-Profissional em transição para **Qualidade de Software (QA)** com base prática em suporte técnico e ambientes de desenvolvimento, aplicando **princípios de qualidade e automação** em cenários reais.  
-Busco atuar como **QA Engineer / SDET**, unindo visão técnica e **prevenção de falhas** para elevar a qualidade, a previsibilidade de entrega e a experiência do usuário.
+Sou **QA Engineer** com atuação em **automação e qualidade de software** em cenários reais, com forte presença em **testes de API**, **validação de contratos (JSON Schema)** e integração de testes em **pipelines de CI/CD**.
 
-Sou **CTFL (ISTQB)** e atuo com **testes manuais, automatizados e de API**, além de **CI/CD**. Tenho experiência com **Cypress, Robot Framework, Selenium e Postman**, familiaridade com **Java e JavaScript** e venho me aprofundando em **k6** para testes de **performance** (carga/estresse).  
-Minha abordagem é **engenharia de qualidade**: integrar **automação, monitoramento e confiabilidade** desde as primeiras etapas (shift-left) e colaborar em times com **cultura DevOps** e **entrega contínua**.
+Trabalho com rotinas de **regressão automatizada (Postman/Newman)**, testes **E2E** (Cypress/Robot/Selenium) e evolução de estratégia de qualidade com visão de **prevenção de falhas (shift-left)**. Tenho experiência em contexto de **pagamentos/TEF**, **integrações** e **ambientes com POS Android/maquininhas**, priorizando **confiabilidade, rastreabilidade e feedback rápido**.
 
-> 🎓 Atualmente curso **Análise e Desenvolvimento de Sistemas (UCSAL)**.  
+> 🎓 Curso **Análise e Desenvolvimento de Sistemas (UCSAL)**.  
 > 📍 Salvador, Bahia – Brasil.
 
 ---
 
 ## 🧪 O que eu faço
 
-- Planejo e executo **testes funcionais, E2E e de API** com foco em valor para o usuário.  
-- **Automatizo cenários** com Cypress / Robot / Selenium (JavaScript/Java).  
-- Estruturo **pipelines de CI/CD** (GitHub Actions, Jenkins) para feedback rápido e confiável.  
-- Realizo **testes de performance** com **k6** (carga, estresse, throughput e SLAs).  
-- Promovo práticas **shift-left** e **Agile Testing** para reduzir retrabalho e risco.
+- Defino e executo **estratégia de testes** (funcional, regressão, E2E e API) com foco em risco e impacto.  
+- Estruturo suites de **API Testing** com **Postman/Newman**, incluindo **orquestração**, geração de dados e variáveis.  
+- Implemento **Contract Testing** com **JSON Schema** (por variantes: 2xx/4xx/5xx) para estabilidade e governança.  
+- Integro validações em **CI/CD** (Azure DevOps, Jenkins, GitHub Actions) para **build validation** e relatórios.  
+- Evoluo **testes de performance** com **k6** (carga/estresse/SLAs) quando aplicável.
 
 ---
 
@@ -53,16 +51,18 @@ Minha abordagem é **engenharia de qualidade**: integrar **automação, monitora
 ![JavaScript](https://img.shields.io/badge/JavaScript-333?style=flat&logo=javascript)
 ![Python](https://img.shields.io/badge/Python-333?style=flat&logo=python)
 
-**Testes**  
+**Testes (Web/API)**  
 ![Cypress](https://img.shields.io/badge/Cypress-333?style=flat&logo=cypress)
-![Selenium](https://img.shields.io/badge/Selenium-333?style=flat&logo=selenium)
 ![Robot Framework](https://img.shields.io/badge/Robot%20Framework-333?style=flat)
+![Selenium](https://img.shields.io/badge/Selenium-333?style=flat&logo=selenium)
 ![Postman](https://img.shields.io/badge/Postman-333?style=flat&logo=postman)
+![Newman](https://img.shields.io/badge/Newman-333?style=flat)
 
 **Performance**  
 ![k6](https://img.shields.io/badge/k6-333?style=flat&logo=k6)
 
 **CI/CD**  
+![Azure DevOps](https://img.shields.io/badge/Azure%20DevOps-333?style=flat&logo=azuredevops)
 ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-333?style=flat&logo=githubactions)
 ![Jenkins](https://img.shields.io/badge/Jenkins-333?style=flat&logo=jenkins)
 
@@ -96,7 +96,7 @@ Minha abordagem é **engenharia de qualidade**: integrar **automação, monitora
 - 🔗 **LinkedIn:** [linkedin.com/in/lucasgarciaamorim](https://www.linkedin.com/in/lucasgarciaamorim/)
 
 <!--
-Dicas:
-- Fixe (pin) 3–6 repositórios que representem seu nível técnico.
-- Adicione uma seção “Roadmap/Estudos atuais” conforme evoluir (ex.: Playwright, RestAssured, Docker).
+Sugestões:
+- Fixe (pin) 3–6 repositórios que representem: API tests (Postman/Newman), contract testing (JSON Schema), CI pipeline, k6.
+- Seção “Agora estudando”: Playwright, RestAssured, Docker, Pact (se fizer sentido).
 -->

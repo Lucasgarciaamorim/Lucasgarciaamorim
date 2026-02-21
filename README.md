@@ -1,7 +1,7 @@
 <div align="center">
 
 # Lucas Garcia  
-**QA Engineer | SDET em formação • Automação de Testes • API & Contract Testing • CI/CD • Cypress • Postman/Newman • Robot • k6 • Java • Python • JavaScript**
+**QA Engineer | SDET em formação • Robot Framework • Automação de Testes • Python • Java • JavaScript • Front-end • API Testing • CI/CD**
 
 <a href="https://komarev.com/ghpvc/?username=lucasgarciaamorim&color=006bed">
   <img src="https://komarev.com/ghpvc/?username=lucasgarciaamorim&color=006bed" alt="Profile views" />
@@ -23,55 +23,53 @@
 
 ---
 
-## 💬 Sobre mim
+## Sobre mim
 
-Sou **QA Engineer** com atuação em **automação e qualidade de software** em cenários reais, com forte presença em **testes de API** e integração de testes em **pipelines de CI/CD**.
+Sou **QA Engineer** com foco em **automação de testes** e base sólida em **programação**. Atuo principalmente com **Robot Framework**, criando suites de testes **E2E e API** com atenção a legibilidade, reuso e manutenção.
 
-Trabalho com rotinas de **regressão automatizada (Postman/Newman)**, testes **E2E** (Cypress/Robot/Selenium) e evolução de estratégia de qualidade com visão de **prevenção de falhas (shift-left)**. Tenho experiência em contexto de **pagamentos/TEF**, **integrações** e **ambientes com POS Android/maquininhas**, priorizando **confiabilidade, rastreabilidade e feedback rápido**.
+Tenho experiência prática com **Python, Java e JavaScript**, além de familiaridade com fundamentos de **front-end** (estruturação de páginas, componentes e validações), o que ajuda na automação orientada ao comportamento do usuário e na colaboração com times de desenvolvimento.
 
-> 🎓 Curso **Análise e Desenvolvimento de Sistemas (UCSAL)**.  
-> 📍 Salvador, Bahia – Brasil.
-
----
-
-## 🧪 O que eu faço
-
-- Defino e executo **estratégia de testes** (funcional, regressão, E2E e API) com foco em risco e impacto.  
-- Estruturo suites de **API Testing** com **Postman/Newman**, incluindo **orquestração**, geração de dados e variáveis.  
-- Implemento **Contract Testing** com **JSON Schema** (por variantes: 2xx/4xx/5xx) para estabilidade e governança.  
-- Integro validações em **CI/CD** (Azure DevOps, Jenkins, GitHub Actions) para **build validation** e relatórios.  
-- Evoluo **testes de performance** com **k6** (carga/estresse/SLAs) quando aplicável.
+> 🎓 Análise e Desenvolvimento de Sistemas (UCSAL)  
+> 📍 Salvador, Bahia – Brasil
 
 ---
 
-## 🧰 Stack e ferramentas
+## Principais frentes
+
+- Automação de testes com **Robot Framework** (E2E e API)
+- Desenvolvimento de bibliotecas/keywords e organização de suites
+- Testes automatizados para aplicações web e serviços
+- Integração de automação com **CI/CD** (GitHub Actions, Jenkins, Azure DevOps)
+- Apoio a boas práticas de qualidade (shift-left, revisão de cenários e critérios de aceite)
+
+---
+
+## Stack e ferramentas
 
 **Linguagens**  
+![Python](https://img.shields.io/badge/Python-333?style=flat&logo=python)
 ![Java](https://img.shields.io/badge/Java-333?style=flat&logo=openjdk)
 ![JavaScript](https://img.shields.io/badge/JavaScript-333?style=flat&logo=javascript)
-![Python](https://img.shields.io/badge/Python-333?style=flat&logo=python)
+![HTML5](https://img.shields.io/badge/HTML5-333?style=flat&logo=html5)
+![CSS3](https://img.shields.io/badge/CSS3-333?style=flat&logo=css3)
 
-**Testes (Web/API)**  
-![Cypress](https://img.shields.io/badge/Cypress-333?style=flat&logo=cypress)
+**Automação / Testes**  
 ![Robot Framework](https://img.shields.io/badge/Robot%20Framework-333?style=flat)
 ![Selenium](https://img.shields.io/badge/Selenium-333?style=flat&logo=selenium)
 ![Postman](https://img.shields.io/badge/Postman-333?style=flat&logo=postman)
-![Newman](https://img.shields.io/badge/Newman-333?style=flat)
+![Cypress](https://img.shields.io/badge/Cypress-333?style=flat&logo=cypress)
+
+**CI/CD**  
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-333?style=flat&logo=githubactions)
+![Jenkins](https://img.shields.io/badge/Jenkins-333?style=flat&logo=jenkins)
+![Azure DevOps](https://img.shields.io/badge/Azure%20DevOps-333?style=flat&logo=azuredevops)
 
 **Performance**  
 ![k6](https://img.shields.io/badge/k6-333?style=flat&logo=k6)
 
-**CI/CD**  
-![Azure DevOps](https://img.shields.io/badge/Azure%20DevOps-333?style=flat&logo=azuredevops)
-![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-333?style=flat&logo=githubactions)
-![Jenkins](https://img.shields.io/badge/Jenkins-333?style=flat&logo=jenkins)
-
-**Banco de Dados**  
-![MySQL](https://img.shields.io/badge/MySQL-333?style=flat&logo=mysql)
-
 ---
 
-## 🏅 Certificações
+## Certificações
 
 - **ISTQB® CTFL – Foundation Level**  
 - **Scrum Fundamentals Certified**  
@@ -80,7 +78,7 @@ Trabalho com rotinas de **regressão automatizada (Postman/Newman)**, testes **E
 
 ---
 
-## 📊 Em números
+## Em números
 
 <div align="center">
   <img height="165em" src="https://github-readme-stats.vercel.app/api?username=lucasgarciaamorim&theme=dracula&show_icons=true" alt="GitHub stats" />
@@ -90,13 +88,7 @@ Trabalho com rotinas de **regressão automatizada (Postman/Newman)**, testes **E
 
 ---
 
-## 🤝 Vamos conversar?
+## Contato
 
 - ✉️ **E-mail:** [lucasgarciaamorim@gmail.com](mailto:lucasgarciaamorim@gmail.com)  
 - 🔗 **LinkedIn:** [linkedin.com/in/lucasgarciaamorim](https://www.linkedin.com/in/lucasgarciaamorim/)
-
-<!--
-Sugestões:
-- Fixe (pin) 3–6 repositórios que representem: API tests (Postman/Newman), contract testing (JSON Schema), CI pipeline, k6.
-- Seção “Agora estudando”: Playwright, RestAssured, Docker, Pact (se fizer sentido).
--->

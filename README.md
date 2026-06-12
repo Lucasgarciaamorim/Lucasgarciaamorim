@@ -42,6 +42,7 @@ O que você vai encontrar por aqui:
 
 **Automação / QA**
 - Robot Framework (keywords, libs, organização de suites)
+- Playwright
 - Selenium / Cypress
 - Postman (API testing)
 
@@ -49,13 +50,14 @@ O que você vai encontrar por aqui:
 - Python
 - Java
 - JavaScript
+- TypeScript
 
 **Front-end**
 - HTML / CSS
 - lógica de UI, componentes e validações
 
 **Dev / Pipeline**
-- Git, GitHub Actions, Jenkins (o básico e o necessário pra rodar testes)
+- Git, GitHub Actions, Jenkins, AzureDevOPS
 
 ---
 
